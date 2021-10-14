@@ -1,4 +1,4 @@
  <p align="center">
-   <img width="200" height="380" src="Mockup/Document 1.JPG"><br>
+   <img width="780" height="1040" src="Mockup/Document 1.JPG"><br>
   
  </p>
